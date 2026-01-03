@@ -98,5 +98,4 @@ Tu IMC es: 23.51
 
 ## ✍️ Autor
 
-Baner Murga 
-Proyecto personal desarrollado en Ruby.
+Baner Murga
